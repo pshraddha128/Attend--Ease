@@ -10,21 +10,21 @@ The application fetches data from a Google Sheets spreadsheet stored in Google D
 - Real-time updates ensure the latest attendance information is displayed.
 
 ## Installation
--Clone the repository to your local machine.
--Open the project in Android Studio.
--Build and run the application on your Android device or emulator.
+- Clone the repository to your local machine.
+- Open the project in Android Studio.
+- Build and run the application on your Android device or emulator.
 
 ## Usage
--Upon launching the application, users are prompted to authenticate their Google account.
--Once authenticated, the application fetches attendance data from the specified Google Sheets spreadsheet.
--The attendance report is displayed in the form of a bar chart, with options to filter and customize the view.
--Users can interact with the bar chart to view detailed information about each attendance record.
+- Upon launching the application, users are prompted to authenticate their Google account.
+- Once authenticated, the application fetches attendance data from the specified Google Sheets spreadsheet.
+- The attendance report is displayed in the form of a bar chart, with options to filter and customize the view.
+- Users can interact with the bar chart to view detailed information about each attendance record.
 
 ## Dependencies
--Android Studio
--Google Sheets API
--Google Drive API
--Gson library for JSON parsing
+- Android Studio
+- Google Sheets API
+- Google Drive API
+- Gson library for JSON parsing
 
 ## Screenshots
 ![WhatsApp Image 2024-05-16 at 13 09 37_df1a85e1](https://github.com/pshraddha128/Attend--Ease/assets/143784340/d5d97f6a-d2ee-47fd-8a35-dcc697b55afe)
