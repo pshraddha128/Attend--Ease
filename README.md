@@ -5,9 +5,9 @@ Attend Ease is a mobile application developed using Android Studio that simplifi
 The application fetches data from a Google Sheets spreadsheet stored in Google Drive using a JSON script and the Google Sheets API. This ensures that users have real-time access to their attendance records without manually updating the app.
 
 ## Features
--View attendance data in a bar chart format.
--Fetches data from a Google Sheets spreadsheet stored in Google Drive.
--Real-time updates ensure the latest attendance information is displayed.
+- View attendance data in a bar chart format.
+- Fetches data from a Google Sheets spreadsheet stored in Google Drive.
+- Real-time updates ensure the latest attendance information is displayed.
 
 ## Installation
 -Clone the repository to your local machine.
